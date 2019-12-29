@@ -1,2 +1,7 @@
 # PythonProject
-My very first python project
+
+# Download Python 3
+
+# Download Python code editor
+
+
