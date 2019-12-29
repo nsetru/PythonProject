@@ -1,7 +1,7 @@
-# PythonProject
+# Python Project
 
-# Download Python 3
+**Download Python 3**
 
-# Download Python code editor
+**Download Python code editor**
 
 
